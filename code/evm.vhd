@@ -1,4 +1,4 @@
---EVM Machine base on FSM by Abhishek Mitra.
+--EVM Machine based on FSM on Xilinx Spartan 3e kit by Abhishek Mitra.
 --DATE-18/02/2017.
 --for input/output configuration see ucf file.
 
